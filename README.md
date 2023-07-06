@@ -27,10 +27,10 @@ This project uses the Hardhat development environment for compilation, testing, 
 5. Set the following environment variables in the `.env` file:
 
   ```bash
-  INFURA_API_KEY=<Your Infura API key>
-  DEPLOYER_PK=<Your wallet's private key>
-  ETHERSCAN_API_KEY=<Your Etherscan API key>
-  COINMARKETCAP_API_KEY=<Your CoinMarketCap API key>
+  INFURA_API_KEY=<Infura API key>
+  DEPLOYER_PK=<wallet pk>
+  ETHERSCAN_API_KEY=<Etherscan API key>
+  COINMARKETCAP_API_KEY=<CoinMarketCap API key>
   ```
 
   Replace `<Your Infura API key>`, `<Your wallet's private key>`, `<Your Etherscan API key>`, and `<Your CoinMarketCap API key>` with your actual keys and private key.
